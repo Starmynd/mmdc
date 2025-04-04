@@ -13,7 +13,7 @@ For example:
 
 ## Requirements
 
-- macOS 10.13 or newer (but could be working on linux)
+- macOS 10.13 or newer
 - Terminal
 
 ## Installation
@@ -72,7 +72,7 @@ The script only changes file metadata, it does not alter the audio content.
 
 ## Author
 
-Starmynd
+starmynd - https://github.com/starmynd
 
 ## Contributing
 
