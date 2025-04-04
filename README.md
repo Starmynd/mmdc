@@ -13,17 +13,17 @@ For example:
 
 ## Requirements
 
-- macOS 10.13 or newer
+- macOS 10.13 or newer (but could be working on linux)
 - Terminal
 
 ## Installation
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/music-metadata-cleaner.git
+git clone https://github.com/starmynd/mmdc.git
 
 # Navigate to the project directory
-cd music-metadata-cleaner
+cd mmdc
 
 # Make the script executable
 chmod +x music_metadata_cleaner.sh
@@ -72,7 +72,7 @@ The script only changes file metadata, it does not alter the audio content.
 
 ## Author
 
-Your Name - [your contact or website]
+Starmynd
 
 ## Contributing
 
